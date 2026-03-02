@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+earthengine-api
+requests
+opencv-python-headless
+numpy
+python-dotenv
+geopy
+google-genai
+sec-api
+pandas
+scikit-learn
