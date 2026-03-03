@@ -166,5 +166,3 @@ REACT_APP_API_URL=<middleware_url>
 - Real-time monitoring alerts
 - Expanded ESG scoring framework
 
-## License
-Provided for educational and research purposes. Licensing terms can be added as required.
